@@ -1,10 +1,8 @@
 
 
 - 👋 Hi, I’m @filipe-chau
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Computer Science and Web Development
+- 🌱 I’m currently learning JavaScript and PHP
 
 <!---
 filipe-chau/filipe-chau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
