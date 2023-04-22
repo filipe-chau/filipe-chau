@@ -1,13 +1,18 @@
 <h1 align="center"> Hi there, I'm Filipe Chau 👋 </h1>
 
 
-<h2 align="center"> I'm an Engineer, Developer, and a passionate learner!!<h2>
+<h2 align="center"> I'm an Engineer, Developer, and a passionate learner!!</h2>
 
-<p align="center">- 🌱 I’m currently learning everything 🤣 </p>
-<p align="center">- 📝 I <strike>regularly</strike> write articles on [FilipeChau](https://filipechau.medium.com/) </p>
-<p align="center">- 🥅 2023 Goals: Learn more about WebDev and CyberSecurity</p>
-<p align="center">- ⚡ Fun fact: I started to code because I wanted to increase my **IQ** </p>
- 
+<p align="center">
+- 🌱 I’m currently learning everything 🤣 
+</p>
+<p align="center">
+- 📝 I <strike>regularly</strike> write articles on [FilipeChau](https://filipechau.medium.com/)
+ </p>
+<p align="center">
+- 🥅 2023 Goals: Learn more about WebDev and CyberSecurity</p>
+<p align="center">
+- ⚡ Fun fact: I started to code because I wanted to increase my **IQ** </p>
  </br>
 
 
